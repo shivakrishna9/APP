@@ -1,8 +1,0 @@
-#include<cstudio>
-#include<iostream>
-using namespace std;
-int main(){
-	freopen("INPUT_FILE_NAME.txt","r",stdin);
-	freopne("OUTPUT_FILE_NAME.txt","r",stdout);
-	return 0;
-}
